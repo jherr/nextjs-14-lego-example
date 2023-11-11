@@ -30,5 +30,8 @@ module.exports = {
       },
     },
   },
+  rules: {
+    "@typescript-lint/no-misused-promises": "off",
+  },
   ignorePatterns: ["node_modules/", "dist/"],
 };

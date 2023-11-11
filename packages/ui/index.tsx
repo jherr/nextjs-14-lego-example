@@ -1,2 +1,2 @@
-// component exports
-export { Card } from "./card";
+export { RSCBlogList } from "./rsc-blog-list";
+export { ClientBlogListLoader as ClientBlogList } from "./client-blog-list-loader";

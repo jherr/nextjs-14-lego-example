@@ -17,5 +17,8 @@
     "react": "^18.2.0",
     "tsconfig": "*",
     "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.3.6"
   }
 }
